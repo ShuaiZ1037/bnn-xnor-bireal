@@ -4,11 +4,11 @@ This is a project contains Pytorch implementations of the BNN*, XNOR-Net and BiR
 
 ---
 #### Results 
-| **Method**   | **Acc**  |   |
-|:--:|:--:|----|
-|   BNN  |   ||
-| XNOR  |   ||
-| BiReal  | 93.17% ||
+| **Method**   | **Acc**  | 
+|:--:|:--:|
+|   BNN  |   |
+| XNOR  |   |
+| BiReal  | 93.17% |
 
 #### Dependencies
 - python 3.5
