@@ -11,7 +11,7 @@ This is a project contains Pytorch implementations of the BNN*, XNOR-Net and BiR
 | BiReal  | 83.17% |
 
 #### Dependencies
-- python 3.5
+- Python 3.5
 - Pytorch 1.3
 - Cuda
 
