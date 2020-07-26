@@ -8,7 +8,7 @@ This is a project contains Pytorch implementations of the BNN*, XNOR-Net and BiR
 |:--:|:--:|
 |   BNN  |   |
 | XNOR  |   |
-| BiReal  | 93.17% |
+| BiReal  | 83.17% |
 
 #### Dependencies
 - python 3.5
