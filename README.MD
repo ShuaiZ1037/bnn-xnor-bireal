@@ -29,7 +29,6 @@ python train.py --binary_method xnor
 python train.py --binary_method bnn
 ```
 #### Todo
-- Acc on cifar10 with bnn and xnor
 - Pretrain model on cifar10
 
 #### Reference
